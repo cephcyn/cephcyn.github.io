@@ -30,10 +30,10 @@ email: jyzhou15 (at) cs.washington.edu
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
+  # - text: Examples
+  #   url: /examples
+  # - text: Docs
+  #   url: /docs
 
 projects:
   - name: git-secret
