@@ -30,10 +30,12 @@ email: jyzhou15 (at) cs.washington.edu
 navigation:
   - text: About
     url: /
+  # - text: CV
+  #   url: /documents/cv.pdf
   # - text: Projects
   #   url: /projects
-  # - text: Blog
-  #   url: /blog
+  - text: Blog
+    url: /blog
   # - text: Examples
   #   url: /examples
   # - text: Docs
