@@ -4,7 +4,7 @@ title: Hello World
 date: 2019-11-11 23:07:12
 author: asyncviridian
 categories: meta
-short_description: Hello World
+short_description: Hello World & A Markdown Template
 external_url:
 ---
 ## Hello world!
@@ -36,4 +36,5 @@ while(true) {
 > This is the second line of the block quote.
 >> This is a block quote _inside_ of a block quote!
 
+An image:
 ![An image](/images/photo.png "the same image as from the front page")
