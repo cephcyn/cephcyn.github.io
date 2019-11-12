@@ -9,7 +9,9 @@ external_url:
 ---
 ## Hello world!
 
-This is my first experience using Jekyll on Github Pages. It looks like the template website is starting to shape up and I'm beginning to better understand how everything fits together. I'm still a CSS newbie so unsure how to fix the image alignment/spacing issues on the main page currently - ideally, I'd have what I do currently except all the text will line up nicely on the left side.
+This is my first experience using Jekyll on Github Pages. It looks like the template website is starting to shape up and I'm beginning to better understand how everything fits together. I'm still a CSS newbie and the biggest challenge (which I still haven't resolved to satisfaction) is how to put an image of myself on the website. Ideally, it would be aligned to the right, but my attempts at doing this have produced a terrible display on websites. Please send help, I'm stuck.
+
+Anyways...
 
 Here's some experimentation with formatting in Markdown for future reference.
 - Do you remember how we came to that place?

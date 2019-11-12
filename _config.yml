@@ -8,7 +8,6 @@
 # Site settings
 title: asyncViridian-home
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal website of Joyce Zhou.
   Based on a <a href="https://hackcss.egoist.moe/">Hack CSS</a> Jekyll <a href="https://github.com/wemake-services/jekyll-theme-hackcss">theme</a>.
 repository: https://github.com/asyncViridian/asyncviridian.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
