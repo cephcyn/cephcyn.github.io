@@ -21,15 +21,19 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: 'Joyce Zhou'
 email: jyzhou15 (at) cs.washington.edu
 
 navigation:
-  - text: Home
+  - text: About
     url: /
+  # - text: Projects
+  #   url: /projects
+  # - text: Blog
+  #   url: /blog
   # - text: Examples
   #   url: /examples
   # - text: Docs
