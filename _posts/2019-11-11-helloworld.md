@@ -21,9 +21,9 @@ Here's some experimentation with formatting in Markdown for future reference.
 
 _^ From Fallen London, not my own writing._
 
-*This is bold text.*
+**This is bold text?**
 
-This is a [link to a fun website](https://www.windows93.net/ "Title text"). In plain link: <https://www.windows93.net/>
+This is a [link](https://www.windows93.net/ "Title text"). In plain link: <https://www.windows93.net/>
 
 ***
 
@@ -39,4 +39,5 @@ while(true) {
 >> This is a block quote _inside_ of a block quote!
 
 An image:
+
 ![An image](/images/photo.png "the same image as from the front page")

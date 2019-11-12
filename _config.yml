@@ -9,8 +9,6 @@
 title: asyncViridian-home
 description: !xml |
   This is the personal website of Joyce Zhou.
-  </br>
-  Based on a <a href="https://hackcss.egoist.moe/">Hack CSS</a> Jekyll <a href="https://github.com/wemake-services/jekyll-theme-hackcss">theme</a>.
 repository: https://github.com/asyncViridian/asyncviridian.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://asyncviridian.github.io/  # the base hostname & protocol for your site
