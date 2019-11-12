@@ -7,7 +7,7 @@
 
 # Site settings
 title: asyncViridian-home
-description: |
+description: !xml |
   This is the personal website of Joyce Zhou.
   </br>
   Based on a <a href="https://hackcss.egoist.moe/">Hack CSS</a> Jekyll <a href="https://github.com/wemake-services/jekyll-theme-hackcss">theme</a>.
