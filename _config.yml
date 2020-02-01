@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: asyncViridian-home
+title: cephcyn-home
 description: !xml |
-  This is the personal website of Joyce Zhou.
-repository: https://github.com/asyncViridian/asyncviridian.github.io/
+  This is Joyce Zhou's personal website.
+repository: https://github.com/cephcyn/cephcyn.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
-url: https://asyncviridian.github.io/  # the base hostname & protocol for your site
+url: https://cephcyn.github.io/  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -59,8 +59,8 @@ projects:
 
 social:
   - service: github
-    username: asyncViridian
-    link: https://github.com/asyncViridian
+    username: cephcyn
+    link: https://github.com/cephcyn
 
 # Plugins
 plugins:
