@@ -8,7 +8,7 @@
 # Site settings
 title: cephcyn-home
 description: !xml |
-  This is Joyce Zhou's personal website.
+  Personal website, constantly under revision :)
 repository: https://github.com/cephcyn/cephcyn.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://cephcyn.github.io/  # the base hostname & protocol for your site
