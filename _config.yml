@@ -33,7 +33,7 @@ navigation:
   # - text: Projects
   #   url: /projects
   - text: CV
-    url: /pub/aboutme/cv.pdf
+    url: /documents/cv.pdf
   - text: Blog
     url: /blog
   # - text: Examples

@@ -1,0 +1,3 @@
+[submodule "documents/CV"]
+	path = documents/CV
+	url = git@github.com:cephcyn/CV.git
