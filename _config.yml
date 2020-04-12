@@ -8,7 +8,7 @@
 # Site settings
 title: Joyce Zhou @cephcyn
 description: !xml |
-  Joyce Zhou (@cephcyn)'s personal website
+  Joyce Zhou (@cephcyn)'s personal website. I am a MS student of computer science at the University of Washington.
 repository: https://github.com/cephcyn/cephcyn.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://cephcyn.github.io/  # the base hostname & protocol for your site
