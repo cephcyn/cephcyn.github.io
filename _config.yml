@@ -25,7 +25,7 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: 'Joyce Zhou'
-email: jyzhou15 (at) cs.washington.edu
+email: jyzhou15@cs.washington.edu
 
 navigation:
   - text: About
