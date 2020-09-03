@@ -61,12 +61,12 @@ social:
   - service: github
     username: cephcyn
     link: https://github.com/cephcyn
-  - service: linkedin
-    username: cephcyn
-    link: https://www.linkedin.com/in/cephcyn
   - service: twitter
     username: cephcyn
     link: https://twitter.com/cephcyn
+  - service: linkedin
+    username: cephcyn
+    link: https://www.linkedin.com/in/cephcyn
 
 # Plugins
 plugins:
