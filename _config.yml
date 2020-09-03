@@ -34,8 +34,8 @@ navigation:
   #   url: /projects
   - text: CV
     url: /documents/CV.pdf
-  - text: Notes
-    url: /notes
+  - text: Blog
+    url: /blog
   # - text: Examples
   #   url: /examples
   # - text: Docs
