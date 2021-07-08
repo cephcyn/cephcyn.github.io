@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: publications
+---
+
+<section>
+  <h1>Publications</h1>
+
+  <p>
+    This is a prototype publications page.
+  </p>
+
+  {% for post in site.publications reversed %}
+    <p>
+      {{ post.title }}
+    </p>
+  {% endfor %}
+</section>
