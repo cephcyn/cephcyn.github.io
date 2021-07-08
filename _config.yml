@@ -32,10 +32,10 @@ navigation:
     url: /
   # - text: Projects
   #   url: /projects
-  - text: CV
-    url: /documents/Zhou_Joyce_CV.pdf
   - text: Blog
     url: /blog
+  - text: CV
+    url: /documents/Zhou_Joyce_CV.pdf
   # - text: Examples
   #   url: /examples
   # - text: Docs
