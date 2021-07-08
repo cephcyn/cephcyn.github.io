@@ -10,9 +10,9 @@ permalink: publications
     This is a prototype publications page.
   </p>
 
-  {% for post in site.publications reversed %}
+  {% for post in site.publications %}
     <p>
-      {{ post.title }}
+      Publication title: {{ post.title }}
     </p>
   {% endfor %}
 </section>
