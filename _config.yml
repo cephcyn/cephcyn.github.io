@@ -23,6 +23,11 @@ sass:
 # Theme settings
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
+# custom collections
+collections:
+  publications:
+    output: true
+
 # Customizations
 your_name: 'Joyce Zhou'
 email: jyzhou15@cs.washington.edu

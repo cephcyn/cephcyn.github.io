@@ -7,12 +7,50 @@ permalink: publications
   <h1>Publications</h1>
 
   <p>
-    This is a prototype publications page.
+    * denotes equal contribution, + denotes significant contribution.
   </p>
 
   {% for post in site.publications %}
-    <p>
-      Publication title: {{ post.title }}
-    </p>
+    <div class="media t-hackcss-media">
+      <div class="media-body">
+
+        <div class="media-heading">
+          <span>
+            {{ post.title }}
+          </span>
+        </div>
+
+        <div class="media-content">
+          {% if post.pdf_link and post.pdf_link != "" %}
+            {% if post.pdf_link contains "https://" or post.pdf_link contains "http://" %}
+              <a href="{{ post.pdf_link }}">Paper</a>
+            {% else %}
+              <a href="{{ post.pdf_link | prepend: '/pub/' | prepend: base_path }}">Paper</a>
+            {% endif %}
+          {% endif %}
+          {% if post.preprint_link and post.preprint_link != "" %}
+            <a href="{{ post.preprint_link }}">Preprint</a>
+          {% endif %}
+          {% if post.code_link and post.code_link != "" %}
+            <a href="{{ post.code_link }}">Code</a>
+          {% endif %}
+          {% if post.slides_link and post.slides_link != "" %}
+            {% if post.slides_link contains "https://" or post.slides_link contains "http://" %}
+              <a href="{{ post.slides_link }}">Slides</a>
+            {% else %}
+              <a href="{{ post.slides_link | prepend: '/pub/' | prepend: base_path }}">Slides</a>
+            {% endif %}
+          {% endif %}
+          {% if post.video_link and post.video_link != "" %}
+            <a href="{{ post.video_link }}">Video</a>
+          {% endif %}
+          {% if post.citation %}
+            </br>
+            {{ post.citation | replace:"Joyce Zhou", "<span style='font-weight:bold'>Joyce Zhou</span>" }}
+          {% endif %}
+        </div>
+
+      </div>
+    </div>
   {% endfor %}
 </section>

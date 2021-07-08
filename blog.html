@@ -9,8 +9,8 @@ permalink: blog
 
     {% for post in site.posts %}
       <div class="media t-hackcss-media">
-
         <div class="media-body">
+
           <div class="media-heading">
             <span>{{ post.date | date_to_string }} &raquo;
               {% if post.external_url %}
@@ -24,11 +24,12 @@ permalink: blog
               {% endif %}
             </span>
           </div>
+
           <div class="media-content">
             {{ post.short_description }}
           </div>
-        </div>
 
+        </div>
       </div>
     {% endfor %}
   </section>
