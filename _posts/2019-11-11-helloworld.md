@@ -39,4 +39,4 @@ while(true) {
 
 A photo of me:
 
-![An image](/images/photo.png "a photo of me!")
+![An image](/images/doodle_brokenimg.png "an image!")
