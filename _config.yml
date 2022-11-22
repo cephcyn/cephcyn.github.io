@@ -68,6 +68,9 @@ social:
   - service: github
     username: cephcyn
     link: https://github.com/cephcyn
+  - service: mastodon
+    username: cephcyn@hci.social
+    link: https://hci.social/@cephcyn
   - service: twitter
     username: cephcyn
     link: https://twitter.com/cephcyn
