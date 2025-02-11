@@ -8,7 +8,7 @@
 # Site settings
 title: Joyce Zhou @cephcyn
 description: !xml |
-  Joyce Zhou (@cephcyn)'s personal website. I am a MS student of computer science at the University of Washington.
+  Joyce Zhou (Jay, @cephcyn)'s personal website. I am a PhD candidate in computer science at Cornell University.
 repository: https://github.com/cephcyn/cephcyn.github.io/
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://cephcyn.github.io/  # the base hostname & protocol for your site
@@ -71,9 +71,9 @@ social:
   - service: mastodon
     username: cephcyn@hci.social
     link: https://hci.social/@cephcyn
-  - service: bluesky
-    username: cephcyn.bsky.social
-    link: https://bsky.app/profile/cephcyn.bsky.social
+  # - service: bluesky
+  #   username: cephcyn.bsky.social
+  #   link: https://bsky.app/profile/cephcyn.bsky.social
   - service: linkedin
     username: cephcyn
     link: https://www.linkedin.com/in/cephcyn
