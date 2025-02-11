@@ -69,11 +69,11 @@ social:
     username: cephcyn
     link: https://github.com/cephcyn
   - service: mastodon
-    username: cephcyn@hci.social
+    username: @cephcyn@hci.social
     link: https://hci.social/@cephcyn
-  - service: twitter
-    username: cephcyn
-    link: https://twitter.com/cephcyn
+  - service: bluesky
+    username: @cephcyn.bksky.social
+    link: https://bsky.app/profile/cephcyn.bsky.social
   - service: linkedin
     username: cephcyn
     link: https://www.linkedin.com/in/cephcyn
